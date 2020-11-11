@@ -1,4 +1,4 @@
-# Toy Robot Robot Simulator
+# Toy Robot Simulator
 ===================
 
 Description
